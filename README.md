@@ -1,6 +1,6 @@
 # UI-Clock Project!
 
-Hi! This is the **UI-Clock** project created as part of Domestika assignment. 
+Hi! This is the **UI-Clock** project.
 
 To run the project:
 
