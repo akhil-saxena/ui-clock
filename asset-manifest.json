@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akhil-saxena/ui-clock/static/css/main.c9dd142e.css",
+    "main.js": "/akhil-saxena/ui-clock/static/js/main.585adfc8.js",
+    "static/js/787.5caaddcc.chunk.js": "/akhil-saxena/ui-clock/static/js/787.5caaddcc.chunk.js",
+    "index.html": "/akhil-saxena/ui-clock/index.html",
+    "main.c9dd142e.css.map": "/akhil-saxena/ui-clock/static/css/main.c9dd142e.css.map",
+    "main.585adfc8.js.map": "/akhil-saxena/ui-clock/static/js/main.585adfc8.js.map",
+    "787.5caaddcc.chunk.js.map": "/akhil-saxena/ui-clock/static/js/787.5caaddcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9dd142e.css",
+    "static/js/main.585adfc8.js"
+  ]
+}
